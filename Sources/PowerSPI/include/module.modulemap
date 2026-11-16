@@ -1,0 +1,5 @@
+module PowerSPI {
+    header "PowerSPI.h"
+    link framework "IOKit"
+    export *
+}
